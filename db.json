@@ -1,0 +1,84 @@
+{
+  "card": [
+    {
+      "imgUrl": "./png/img.png",
+      "title": "\"Hamlet Contemplates ...",
+      "creatorName": "SalvadorDali",
+      "price": "4.89",
+      "like": "100",
+      "time": "05:12:07:45"
+    },
+    {
+      "imgUrl": "./png/img1.png",
+      "title": "\"Hamlet Contemplates ...",
+      "creatorName": "SalvadorDali",
+      "price": "4.89",
+      "like": "100",
+      "time": "05:12:07:45"
+    },
+    {
+      "imgUrl": "./png/img2.png",
+      "title": "\"Hamlet Contemplates ...",
+      "creatorName": "SalvadorDali",
+      "price": "4.89",
+      "like": "100",
+      "time": "05:12:07:45"
+    },
+    {
+      "imgUrl": "./png/img3.png",
+      "title": "\"Hamlet Contemplates ...",
+      "creatorName": "SalvadorDali",
+      "price": "4.89",
+      "like": "100",
+      "time": "05:12:07:45"
+    },
+    {
+      "imgUrl": "./png/img4.png",
+      "title": "\"Hamlet Contemplates ...",
+      "creatorName": "SalvadorDali",
+      "price": "4.89",
+      "like": "100",
+      "time": "05:12:07:45"
+    },
+    {
+      "imgUrl": "./png/img5.png",
+      "title": "\"Hamlet Contemplates ...",
+      "creatorName": "SalvadorDali",
+      "price": "4.89",
+      "like": "100",
+      "time": "05:12:07:45"
+    },
+    {
+      "imgUrl": "./png/img6.png",
+      "title": "\"Hamlet Contemplates ...",
+      "creatorName": "SalvadorDali",
+      "price": "4.89",
+      "like": "100",
+      "time": "05:12:07:45"
+    },
+    {
+      "imgUrl": "./png/img7.png",
+      "title": "\"Hamlet Contemplates ...",
+      "creatorName": "SalvadorDali",
+      "price": "4.89",
+      "like": "100",
+      "time": "05:12:07:45"
+    },
+    {
+      "imgUrl": "./png/img8.png",
+      "title": "\"Hamlet Contemplates ...",
+      "creatorName": "SalvadorDali",
+      "price": "4.89",
+      "like": "100",
+      "time": "05:12:07:45"
+    },
+    {
+      "imgUrl": "./png/img9.png",
+      "title": "\"Hamlet Contemplates ...",
+      "creatorName": "SalvadorDali",
+      "price": "4.89",
+      "like": "100",
+      "time": "05:12:07:45"
+    }
+  ]
+}
